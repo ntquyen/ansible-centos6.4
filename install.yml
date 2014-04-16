@@ -1,0 +1,5 @@
+---
+- hosts: bloghoctot
+  # sudo: yes
+  roles:
+  - nginx
